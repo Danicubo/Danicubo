@@ -1,6 +1,6 @@
 # Hi, my name is Daniel Cuevas
 
-i'm Daniel Cuevas Botero, actually i'm studying Multimedia Engineering at university San Buenaventura Cali. I have skills in HTML, CSS, JS and (ThreeJS), C# and C# for Unity, Firebase. I like to learn new things and meet many peoplese.
+i'm Daniel Cuevas Botero, actually i'm studying Multimedia Engineering at university San Buenaventura Cali. I have skills in HTML, CSS, JS and (ThreeJS), C# and C# for Unity, Firebase. I like to learn new things and meet many people.
 
 
 ## My actual GitHub stats :chart_with_upwards_trend: : 

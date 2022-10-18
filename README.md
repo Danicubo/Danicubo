@@ -4,6 +4,4 @@ i'm Daniel Cuevas Botero, actually i'm studying Multimedia Engineering at univer
 
 
 ## My actual GitHub stats :chart_with_upwards_trend: : 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Danicubo&show_icons=true&theme=github_dark &count_private=true" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danicubo&layout=compact&show_icons=true&theme=github_dark " /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

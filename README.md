@@ -4,8 +4,7 @@ i'm Daniel Cuevas Botero, Multimedia Engineer at university San Buenaventura Cal
 
 
 ## My actual GitHub stats :chart_with_upwards_trend: : 
-[![Danicubo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=danicubo&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/danicubo/github-readme-stats#gh-dark-mode-only)
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danicubo)](https://github.com/anuraghazra/github-readme-stats)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=danicubo&show_icons=true&theme=dark"

@@ -1,7 +1,6 @@
 # Hi, my name is Daniel Cuevas
 
-i'm Daniel Cuevas Botero, Multimedia Engineer at university San Buenaventura Cali. I have skills in HTML, CSS, JS and (ThreeJS), C# and C# for Unity, Firebase. I like to learn new things and meet many people.
-
+i'm Daniel Cuevas Botero, Multimedia Engineer at university San Buenaventura Cali.
 
 ## My actual GitHub stats :chart_with_upwards_trend: : 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danicubo)](https://github.com/anuraghazra/github-readme-stats)

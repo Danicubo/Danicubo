@@ -6,7 +6,7 @@ i'm Daniel Cuevas Botero, Multimedia Engineer. I have work experience with: HTML
 
 * 🌍  I'm based in Cali, Colombia
 * ✉️  You can contact me at [danielcuevas2002@hotmail.com](mailto:danielcuevas2002@hotmail.com)
-* 🧠  I seek tointegrate knowledge in web services and network management to offer complete and adaptive solutions in digital environments
+* 🧠  I seek to integrate knowledge in web services and network management to offer complete and adaptive solutions in digital environments
 * 🤝  I'm open to collaborating on Interesting projects that allows me improve my skills and knowledge and teamwork
 * ⚡  I am open to learn new programming languages, helping to improve my professional and personal profile to help with the best innovative solutions
 

@@ -1,6 +1,6 @@
 # Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Daniel Cuevas
 
-### Frontend Developer | UI/UX Developer
+### Web developer
 
 i'm Daniel Cuevas Botero, Multimedia Engineer. I have work experience with: HTML, CSS, Bootstrap, JavaScript, PHP, Figma. I developed a Web page that implements several integrations such as: Login, create account, reset password via emails, admin panel and user panel. Users will have the ability to schedule appointments with various beauty services and administrators will have the ability to create new services, delete appointments, update prices and services and read the data ofscheduled appointments. Also, I have managed to make a mobile application for learning the human skeletal system using augmented reality technology, achieving better learning comprehension for students.
 
@@ -24,6 +24,8 @@ i'm Daniel Cuevas Botero, Multimedia Engineer. I have work experience with: HTML
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="ReactJS" /></a>
 <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.webflow.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webflow.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
 ### Socials
